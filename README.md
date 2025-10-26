@@ -33,8 +33,8 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/email-otp-verification.git
-   cd email-otp-verification
+   git clone https://github.com/shauryaaojha/OTP-Verification-Using-Email.git
+   cd OTP-Verification-Using-Email
    ```
 
 2. Install required Python libraries:
