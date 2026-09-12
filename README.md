@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** file for your **Email OTP Verification using Python** project 👇
-
----
-
 # 🔐 Email OTP Verification using Python
 
 This project implements a simple **OTP (One-Time Password) verification system** using **Python** and **email (SMTP)**.
